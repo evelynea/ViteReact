@@ -1,0 +1,32 @@
+.navbar{
+    width: 550px;
+    height: 91px;
+    background-color: #21222A;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 30px;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    /* background-color: red; */
+}
+img{
+    
+    width: 29px;
+    height: 29px;
+}
+h2{
+    margin-left: 5px;  
+    color: #61DAFB;
+    font-size: 22px;
+    /* font-weight: 700; */
+}
+
+
+p{
+    color: #DEEBF8;
+    font-weight: 600;
+}
